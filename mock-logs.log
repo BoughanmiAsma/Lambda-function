@@ -1,0 +1,9 @@
+2026-11-09 10:15:30 INFO [auth] User alice logged in
+2026-11-09 10:15:32 INFO [api] GET /products 200 45ms
+2026-11-09 10:15:35 WARNING [api] Slow response on /orders: 2300ms
+2026-11-09 10:15:40 ERROR [db] Connection timeout after 30s
+2026-11-09 10:15:41 ERROR [auth] Invalid password for user bob
+2026-11-09 10:15:45 DEBUG [cache] Cache miss for key user:42
+2026-11-09 10:15:50 CRITICAL [payment] Gateway unreachable
+2026-11-09 10:15:55 INFO [api] GET /health 200 2ms
+this line has no valid format
