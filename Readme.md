@@ -69,7 +69,6 @@ Lines that do not match this format are counted as `lines_unparsed`.
 
 ## 4. Project structure
 
-> Adjust the names below if your files are named differently.
 
 ```
 task-3-lambda-function/
